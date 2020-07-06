@@ -8,3 +8,6 @@ while循环的格式
         ...(省略)...
 
 '''
+
+print('hello world')
+
